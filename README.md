@@ -23,12 +23,7 @@ A simple React Native app created with Expo, featuring an input field and a butt
    ```bash
    git clone https://github.com/Hariic33/simple-text-app.git
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd textApp
-
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm install
